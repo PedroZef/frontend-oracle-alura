@@ -22,6 +22,15 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}\\9-loops.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "10-for",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\10-for.js"
         }
         
     ]
